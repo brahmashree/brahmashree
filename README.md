@@ -2,7 +2,7 @@
 ![MasterHead](https://thumbor.cdn.classpert.com/SuOhkvL1xdvyErPp2UT5odP6-GA=/768x0/https%3A%2F%2Fcdn.classpert.com%2Fuploads%2Fwhat-is-programming-4f68a24e0e2234747c6358e1c2492f7d.png)
 
 Hi 👋, I'm Brahmashree Swain</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmashree&label=Profile%20views&color=0e75b6&style=flat" alt="brahmashree" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
