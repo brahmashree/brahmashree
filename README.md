@@ -21,3 +21,4 @@ Hi 👋, I'm Brahmashree Swain</h1>
 * Java (Programming Language)
 * Python (Programming Language)
 * SQL (Database)
+* Frontend Web Development
