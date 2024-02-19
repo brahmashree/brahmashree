@@ -4,8 +4,6 @@
 Hi 👋, I'm Brahmashree Swain</h1>
 <h3 align="center">A passionate Software developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmashree&label=Profile%20views&color=0e75b6&style=flat" alt="brahmashree" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/im_brahmashree" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/im_brahmashree?logo=twitter&style=for-the-badge" alt="https://twitter.com/im_brahmashree" /></a> </p>
 
